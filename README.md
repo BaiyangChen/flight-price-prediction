@@ -25,4 +25,28 @@ The project workflow includes:
 - Seaborn
 
 ## File Structure
+flight-price-prediction/
+│
+├── flight_price_prediction.ipynb # Main Jupyter Notebook
+├── data/ # (Optional) Dataset files
+├── requirements.txt # (Optional) Python dependencies
+└── README.md # Project documentation
+
+
+## Sample Visualizations
+
+- Scatter plot of predicted vs actual prices
+- Distribution of residuals
+- Regression performance metrics
+
+## How to Run
+
+1. Clone this repository
+2. Install required packages:  
+3. Open `flight_price_prediction.ipynb` in Jupyter Notebook or VSCode
+4. Execute the notebook cells step by step
+
+## Author
+
+Baiyang Chen
 
