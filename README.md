@@ -26,11 +26,11 @@ The project workflow includes:
 
 ## File Structure
 flight-price-prediction/
-│
-├── flight_price_prediction.ipynb # Main Jupyter Notebook
-├── data/ # (Optional) Dataset files
-├── requirements.txt # (Optional) Python dependencies
-└── README.md # Project documentation
+├── flight_price_prediction.ipynb   # Main Jupyter Notebook
+├── data/                           # (Optional) Dataset files
+├── requirements.txt                # (Optional) Python dependencies
+└── README.md                       # Project documentation
+
 
 
 ## Sample Visualizations
